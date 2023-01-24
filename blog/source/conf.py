@@ -26,3 +26,7 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+
+# token
+# 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
